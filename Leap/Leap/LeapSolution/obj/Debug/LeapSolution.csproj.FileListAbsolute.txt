@@ -1,0 +1,7 @@
+C:\Users\bryso\Documents\GitHub\exercism\Leap\Leap\LeapSolution\bin\Debug\LeapSolution.dll
+C:\Users\bryso\Documents\GitHub\exercism\Leap\Leap\LeapSolution\bin\Debug\LeapSolution.pdb
+C:\Users\bryso\Documents\GitHub\exercism\Leap\Leap\LeapSolution\obj\Debug\LeapSolution.csprojResolveAssemblyReference.cache
+C:\Users\bryso\Documents\GitHub\exercism\Leap\Leap\LeapSolution\obj\Debug\LeapSolution.dll
+C:\Users\bryso\Documents\GitHub\exercism\Leap\Leap\LeapSolution\obj\Debug\LeapSolution.pdb
+C:\Users\bryso\Documents\GitHub\exercism\Leap\Leap\LeapSolution\bin\Debug\nunit.framework.dll
+C:\Users\bryso\Documents\GitHub\exercism\Leap\Leap\LeapSolution\bin\Debug\nunit.framework.xml
